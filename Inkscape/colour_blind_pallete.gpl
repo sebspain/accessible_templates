@@ -1,0 +1,12 @@
+GIMP Palette
+Name: color_blind
+Columns: 3
+#
+0 0 0	    Black   000000
+230 159 0   Orange  E69F00
+86 180 233  SkyBlue 56B4E9
+0 158 115   Green   009E73
+240 228 66  Yellow  F0E442
+0 114 178   Blue    0072B2
+213 94 0    Red     D55E00
+204 121 167 Purple  CC79A7
